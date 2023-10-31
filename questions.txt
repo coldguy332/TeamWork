@@ -1,0 +1,27 @@
+Is it a mammal?
+Does it have stripes?
+Is it a carnivore?
+Is it a tiger?
+NULL
+NULL
+Is it a zebra?
+NULL
+NULL
+Is it a pig?
+NULL
+NULL
+Does it fly?
+Is it an eagle?
+NULL
+NULL
+Does it swim?
+Is it a penguin?
+NULL
+NULL
+Is it not an ostrich?
+Is it a animal?
+NULL
+NULL
+Is it an ostrich?
+NULL
+NULL
